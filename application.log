@@ -1,0 +1,12 @@
+INFO  App starting
+INFO  Loading configuration file
+WARN  Config file missing, using default values
+INFO  Initializing database connection dsfdgcsd
+ERROR Failed to connect to database
+WARN  Retrying database connection (attempt 1)
+INFO  Database connection established
+INFO  Starting HTTP server on port 8080
+INFO  Application ready to accept requests
+ERROR Unexpected null pointer exception
+INFO  Application shutdown gracefully
+

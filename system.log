@@ -1,0 +1,10 @@
+Jan 20 09:00:01 server01 systemd[1]: Starting System Initialization
+Jan 20 09:00:05 server01 kernel: CPU0: Intel(R) Xeon(R) CPU initialized
+Jan 20 09:00:10 server01 systemd[1]: Started Network Service
+Jan 20 09:01:12 server01 sshd[1023]: Accepted password for admin from 192.168.1.10 port 52144
+Jan 20 09:02:30 server01 sudo: admin : TTY=pts/0 ; COMMAND=/bin/systemctl restart nginx
+Jan 20 09:03:45 server01 kernel: Warning: disk usage at 85%
+Jan 20 09:04:10 server01 systemd[1]: nginx.service: Failed to start
+Jan 20 09:04:11 server01 systemd[1]: nginx.service: Unit entered failed state
+Jan 20 09:05:00 server01 systemd[1]: System running normally gsdsfdts
+

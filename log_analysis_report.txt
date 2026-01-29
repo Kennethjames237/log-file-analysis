@@ -1,0 +1,43 @@
+====================================
+=======analysing log file===========
+====================================
+
+====================================
+List of log files  modified in 24hr
+====================================
+/Users/nnaminkoussekennethjames/Desktop/logs/system.log
+/Users/nnaminkoussekennethjames/Desktop/logs/application.log
+
+
+====================================
+===========/Users/nnaminkoussekennethjames/Desktop/logs/system.log================
+====================================
+
+ ERROR in  /Users/nnaminkoussekennethjames/Desktop/logs/system.log file
+
+ number of ERROR in /Users/nnaminkoussekennethjames/Desktop/logs/system.log file
+0
+
+ kernel in  /Users/nnaminkoussekennethjames/Desktop/logs/system.log file
+Jan 20 09:00:05 server01 kernel: CPU0: Intel(R) Xeon(R) CPU initialized
+Jan 20 09:03:45 server01 kernel: Warning: disk usage at 85%
+
+ number of kernel in /Users/nnaminkoussekennethjames/Desktop/logs/system.log file
+2
+
+
+====================================
+===========/Users/nnaminkoussekennethjames/Desktop/logs/application.log================
+====================================
+
+ ERROR in  /Users/nnaminkoussekennethjames/Desktop/logs/application.log file
+ERROR Failed to connect to database
+ERROR Unexpected null pointer exception
+
+ number of ERROR in /Users/nnaminkoussekennethjames/Desktop/logs/application.log file
+2
+
+ kernel in  /Users/nnaminkoussekennethjames/Desktop/logs/application.log file
+
+ number of kernel in /Users/nnaminkoussekennethjames/Desktop/logs/application.log file
+0
